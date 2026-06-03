@@ -1,0 +1,21 @@
+id,name,play_type,formation,description,yards,success_rate,down_distance,hash_position,tags,created_at
+play_a1b2c3d4,HB Dive Left,run,I_FORMATION,HB Dive Left out of I_FORMATION formation,4.2,0.72,1st&10,middle,short_yardage|power_run,2025-05-08T16:00:00
+play_b2c3d4e5,Slant Route,pass,SHOTGUN,Slant Route out of SHOTGUN formation,9.5,0.68,2nd&long,left,blitz_beater,2025-05-08T16:01:00
+play_c3d4e5f6,Power Right,run,I_FORMATION,Power Right out of I_FORMATION formation,3.8,0.75,2nd&short,right,short_yardage|goal_line,2025-05-08T16:02:00
+play_d4e5f6a1,Go Route,pass,SHOTGUN,Go Route out of SHOTGUN formation,24.0,0.42,3rd&long,middle,two_minute,2025-05-08T16:03:00
+play_e5f6a1b2,QB Sneak,run,I_FORMATION,QB Sneak out of I_FORMATION formation,1.5,0.81,4th&1,middle,short_yardage|goal_line,2025-05-08T16:04:00
+play_f6a1b2c3,Screen Pass,pass,SHOTGUN,Screen Pass out of SHOTGUN formation,6.2,0.65,1st&10,left,screen_game,2025-05-08T16:05:00
+play_a1b2c3e5,Counter Left,run,SINGLEBACK,Counter Left out of SINGLEBACK formation,5.1,0.63,2nd&short,right,power_run,2025-05-08T16:06:00
+play_b2c3d4f6,Curl Route,pass,SHOTGUN,Curl Route out of SHOTGUN formation,7.8,0.71,3rd&short,middle,blitz_beater,2025-05-08T16:07:00
+play_c3d4e5a1,Sweep Right,run,SINGLEBACK,Sweep Right out of SINGLEBACK formation,8.3,0.55,1st&10,right,motion,2025-05-08T16:08:00
+play_d4e5f6b2,PA Bootleg,pass,PISTOL,PA Bootleg out of PISTOL formation,12.5,0.60,2nd&long,left,play_action|motion,2025-05-08T16:09:00
+play_e5f6a1c3,Field Goal,special,SINGLEBACK,Field Goal out of SINGLEBACK formation,0.0,0.88,4th&1,middle,red_zone,2025-05-08T16:10:00
+play_f6a1b2d4,Four Verticals,pass,GUN_TRIPS,Four Verticals out of GUN_TRIPS formation,18.0,0.45,3rd&long,right,two_minute|blitz_beater,2025-05-08T16:11:00
+play_a1b2c3f6,Toss Left,run,SINGLEBACK,Toss Left out of SINGLEBACK formation,6.7,0.58,1st&10,left,motion,2025-05-08T16:12:00
+play_b2c3d4a1,Post Route,pass,EMPTY_SET,Post Route out of EMPTY_SET formation,15.2,0.49,2nd&long,middle,two_minute,2025-05-08T16:13:00
+play_c3d4e5b2,Draw Play,run,SHOTGUN,Draw Play out of SHOTGUN formation,4.9,0.67,3rd&short,right,blitz_beater|screen_game,2025-05-08T16:14:00
+play_d4e5f6c3,Comeback Route,pass,SINGLEBACK,Comeback Route out of SINGLEBACK formation,9.0,0.62,2nd&long,left,play_action,2025-05-08T16:15:00
+play_e5f6a1d4,HB Dive Right,run,I_FORMATION,HB Dive Right out of I_FORMATION formation,3.2,0.70,2nd&short,middle,short_yardage,2025-05-08T16:16:00
+play_f6a1b2e5,Smash Concept,pass,GUN_TRIPS,Smash Concept out of GUN_TRIPS formation,11.0,0.58,3rd&long,right,blitz_beater|play_action,2025-05-08T16:17:00
+play_a1b2c3d4b,Fake Punt,special,SINGLEBACK,Fake Punt out of SINGLEBACK formation,22.0,0.38,4th&1,left,trick_play|motion,2025-05-08T16:18:00
+play_b2c3d4e5c,Power Left,run,I_FORMATION,Power Left out of I_FORMATION formation,2.8,0.73,4th&1,right,goal_line|short_yardage,2025-05-08T16:19:00
