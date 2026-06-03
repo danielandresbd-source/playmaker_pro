@@ -1,6 +1,6 @@
-# 🏈 PlayMaker Pro — Football Playbook Creator & Analyzer
+# PlayMaker Pro — Football Playbook Creator & Analyzer
 
-> AB Final Project · Programming & Coding · MSMK University College 2025–2026
+> AB Final Project · Programming & Coding · MSMK University 2025–2026
 
 PlayMaker Pro is a CLI app that lets coaches and analysts create,
 manage, and analyze American football playbooks and plays.
