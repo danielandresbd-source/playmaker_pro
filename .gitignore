@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+data/exports/*.csv
+data/playbooks.json
+*.log
+.DS_Store
